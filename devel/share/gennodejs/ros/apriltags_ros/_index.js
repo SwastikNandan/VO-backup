@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/apriltags_ros/share/gennodejs/ros/apriltags_ros/_index.js

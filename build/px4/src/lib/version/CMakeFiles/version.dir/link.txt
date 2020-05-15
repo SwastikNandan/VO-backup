@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/catkin_ws/devel/.private/px4/lib/libversion.a  CMakeFiles/version.dir/version.c.o
+/usr/bin/ranlib /root/catkin_ws/devel/.private/px4/lib/libversion.a

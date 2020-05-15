@@ -1,0 +1,4 @@
+Linked: (/root/catkin_ws/devel/.private/apriltags/share/apriltags/cmake/apriltagsConfig-version.cmake, /root/catkin_ws/devel/share/apriltags/cmake/apriltagsConfig-version.cmake)
+Linked: (/root/catkin_ws/devel/.private/apriltags/share/apriltags/cmake/apriltagsConfig.cmake, /root/catkin_ws/devel/share/apriltags/cmake/apriltagsConfig.cmake)
+Linked: (/root/catkin_ws/devel/.private/apriltags/lib/libapriltags.so, /root/catkin_ws/devel/lib/libapriltags.so)
+Linked: (/root/catkin_ws/devel/.private/apriltags/lib/pkgconfig/apriltags.pc, /root/catkin_ws/devel/lib/pkgconfig/apriltags.pc)
