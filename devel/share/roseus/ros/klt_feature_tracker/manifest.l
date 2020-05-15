@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mavlink_sitl_gazebo/share/roseus/ros/klt_feature_tracker/manifest.l

@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/apriltags_ros/share/roseus/ros/apriltags_ros/msg/AprilTagDetectionArray.l

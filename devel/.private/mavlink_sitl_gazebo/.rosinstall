@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/catkin_ws/devel/.private/mavlink_sitl_gazebo/setup.sh
